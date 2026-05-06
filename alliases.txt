@@ -1,3 +1,7 @@
+reverse_doggy_style = reverse_doggystyle
+amazon_position = amazonian_mating_press
+rimming = rimming_female, anilingus, ass_eating, eating_ass, rimming_male
+facesitting = ass_on_face, face_on_ass, face_in_ass
 missionary_position = missionary_sex, missionary_tribadism, missionary_pose, missionary_anal, missionary_style
 spooning_position = spooning_sex, spooning, spoon_position, side_position
 standing_position = standing_sex, standing_pose 
@@ -7,7 +11,3 @@ lesbian = lesbian_sex, lesbian_domination, yuri, lesbian_kiss
 prone_bone = prone_bone_position, prone_bone_sex
 cowgirl_position = reverse_cowgirl_position, reverse_cowgirl_pose, reverse_cowgirl, cowgirl, cowgirl_pose, cowgirl_sex
 doggy_style = doggystyle, doggy_position, doggy_style_position, doggystyle_position, doggy_style_sex
-reverse_doggy_style = reverse_doggystyle
-amazon_position = amazonian_mating_press
-rimming = rimming_female, anilingus, ass_eating, eating_ass, rimming_male
-facesitting = ass_on_face, face_on_ass, face_in_ass
