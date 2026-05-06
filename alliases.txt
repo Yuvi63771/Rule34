@@ -9,3 +9,5 @@ cowgirl_position = reverse_cowgirl_position, reverse_cowgirl_pose, reverse_cowgi
 doggy_style = doggystyle, doggy_position, doggy_style_position, doggystyle_position, doggy_style_sex
 reverse_doggy_style = reverse_doggystyle
 amazon_position = amazonian_mating_press
+rimming = rimming_female, anilingus, ass_eating, eating_ass, rimming_male
+facesitting = ass_on_face, face_on_ass, face_in_ass
