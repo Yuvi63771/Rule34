@@ -1,4 +1,4 @@
-bikini = bikini_top, bikini_bottom, bikini_aside, swimsuit, swimsuit_aside, swimsuit_pull, swimsuits
+bikini = bikini_top, bikini_bottom, bikini_aside, swimsuit, swimsuit_aside, swimsuit_pull, swimsuits, panties
 boobs = breasts, large_breasts, big_breasts, big_boobs, boobs_focus, boob_grab
 bodysuit = catsuit, leotard, plugsuit, unitard, zentai, full_body_suit, skintight_suit
 school_uniform = seifuku, sailor_uniform, serafuku, schoolgirl_uniform, gakuran
